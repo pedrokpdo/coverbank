@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "coverbank",
+    "slug": "coverbank",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
