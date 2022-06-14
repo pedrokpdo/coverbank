@@ -10,9 +10,9 @@ export const PersonInfo = () => {
                 <FontAwesome name='bank' size={60} color='#666666'/>
                 <Text style={{fontSize:18, fontWeight:'bold', color:"#666666"}}>POLIANA</Text>
             </View>
-            <AntDesign name='qrcode' size={260} color='#000000' style={{marginTop: 8}}/>
-            <Text style={{fontWeight:'bold', fontSize:16, color:'#000000'}}>Agencia: 1</Text>
-            <Text style={{fontWeight:'bold', fontSize:16, color:'#000000'}}>Conta: 5924344-1</Text>
+            <AntDesign name='qrcode' size={200} color='#000000' style={{marginTop: 8}}/>
+            <Text style={{fontWeight:'bold', fontSize:22, color:'#000000'}}>Agencia: 1</Text>
+            <Text style={{fontWeight:'bold', fontSize:22, color:'#000000'}}>Conta: 5924344-1</Text>
         </Container>
     )
 }
