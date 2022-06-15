@@ -10,10 +10,7 @@ export const Perfil = () => {
         <ScrollView>
             <Header title='' icon='bank' subtitle={<Feather name="log-out" size={40} color='#666666' />} />
             <PersonInfo/>
-            <LinksPerfil link='Meus Dados'/>
-            <LinksPerfil link='Meus Cartões'/>
-            <LinksPerfil link='Ajuda'/>
-            <LinksPerfil link='Configurações'/>
+            <LinksPerfil/>
         </ScrollView>
     )
 }

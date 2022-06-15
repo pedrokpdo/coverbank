@@ -11,4 +11,5 @@ export const Line = styled.View`
     height: 1px;
     background-color: #666666;
     width: 90%;
+    margin-bottom: 16px;
 `
